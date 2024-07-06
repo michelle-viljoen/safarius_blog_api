@@ -1,0 +1,14 @@
+[
+    [
+        {
+          "id": 1,
+          "title": "First Article",
+          "body": "This is the body of the first article."
+        },
+        {
+          "id": 2,
+          "title": "Second Article",
+          "body": "This is the body of the second article."
+        }
+      ]
+]
